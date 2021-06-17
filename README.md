@@ -2,6 +2,8 @@
 
 #### CODING IN PROGRESS
 
+### DAY 1
+
 Welcome to my first app made using Flutter that quizzes you based on country flags. 
 
 Learning by making projects to keep myself stay motivated and excited!
