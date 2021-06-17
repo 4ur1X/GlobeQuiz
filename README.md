@@ -1,5 +1,5 @@
 ## GlobeQuiz (Flutter App)
 
-Welcome to my first app made using Flutter that quizzes you based on country flags.
+Welcome to my first app made using Flutter that quizzes you based on country flags. Learning by making projects to keep me excited!
 
-Below you can see the screenshots of first day coding :)
+Below you can see the screenshots of my first day coding :)
