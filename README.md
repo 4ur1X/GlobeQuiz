@@ -6,4 +6,4 @@ Learning by making projects to keep myself stay motivated and excited!
 
 Below you can see the recording of the result of my first day coding :)
 
-<img src="https://github.com/ronit-singh/Intro_to_IM/blob/main/June%2014/schematic.jpg" height="300">
+<img src="https://github.com/ronit-singh/GlobeQuiz/blob/main/firstday.gif" height="300">
